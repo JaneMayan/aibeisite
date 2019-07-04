@@ -1,9 +1,8 @@
 # aibeisite
 
-![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%201.png)
-![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%202.png)
-![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%203.png)
-![image](https://github.com/JaneMayan/meishihaichi/blob/master/image/画板%204.png)
+![image](https://github.com/JaneMayan/aibeisite/blob/master/1.jpg)
+![image](https://github.com/JaneMayan/aibeisite/blob/master/2.jpg)
+![image](https://github.com/JaneMayan/aibeisite/blob/master/3.jpg)
 
 if you have any question, please contact me with no hesitate
 
